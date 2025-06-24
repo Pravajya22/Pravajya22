@@ -1,6 +1,10 @@
 ### Hi 
 
 Hey there
+
+## Local Development
+1. Open index.html in your browser.
+
 <!--
 **Pravajya22/Pravajya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
